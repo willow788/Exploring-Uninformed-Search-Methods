@@ -1,1 +1,1 @@
-# Exploring-Uniform-Search-Methods
+# Exploring-Uninformed-Search-Methods
