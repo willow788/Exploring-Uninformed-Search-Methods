@@ -231,7 +231,4 @@ This project is released under the MIT License. See the LICENSE file for details
 
 ---
 
-Happy learning! If you'd like, I can:
-- Commit this README update for you, or
-- Open a pull request with the proposed README changes and optionally add short CONTRIBUTING notes for new examples.
-```
+
